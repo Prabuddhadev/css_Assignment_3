@@ -3,7 +3,7 @@ body
     border: 7px groove greenyellow;
     width: 99.2%;
     height: 100%;
-    /* background-image: url("./image.jpg"); */
+    background-image: url("./image.jpg");
 }
 .a
 {   font-family: 'Lobster', cursive;
